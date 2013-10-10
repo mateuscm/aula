@@ -1,1 +1,8 @@
 Arquivo de teste com texto aleatório para fazer o exercício.
+A
+B
+C
+D
+E
+F
+MODIFICADO NO BRANCH TESTE
